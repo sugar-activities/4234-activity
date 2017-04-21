@@ -1,0 +1,57 @@
+Listen and Spell LEGAL.txt FILE:
+
+LEGAL INFORMATION
+
+This LEGAL.txt file accompanies the Listen and Spell program. It includes notices required by the licenses as well as general legal notices.
+
+=========================================
+    COPYRIGHT AND ATTRIBUTION NOTICES
+=========================================
+
+Copyright (C) 2009 Software for Education, Entertainment and Training Activities (SEETA) 
+All Rights Reserved.
+
+image:cff-logo.gif
+"Listen and Spell"
+http://seeta.in/wiki/index.php?title=Listen_Spell
+
+=========================================
+     SOURCE CODE AVAILABILITY NOTICE
+=========================================
+
+The source code for this product is available from:
+http://seeta.in/j/downloads.html.
+
+=========================================
+          GENERAL LEGAL NOTICES
+=========================================
+
+Listen and Spell are registered trademarks of Software for Education, Entertainment and Training Activities (SEETA). 
+The SEETA logo are trademarks of Software for Education, Entertainment and Training Activities (SEETA)
+
+=========================================
+  LEGAL NOTICES REQUIRED BY THE LICENSE
+=========================================
+
+CHANGES MADE TO THE COVERED CODE (see CPAL Version 1.0 Section 3.3):
+
+The Listen and Spell code was:
+    Portions (c) Copyright 2009 Software for Education, Entertainment and Training Activities (SEETA)
+    All Rights Reserved.
+    
+
+   ----------
+
+(Documentation of future changes as the result of Modifications, including the date of 
+change, will go here in this LEGAL.txt file. This documentation may be summaries of 
+changes with the more detailed descriptions included in the actual modified files as 
+appropriate.)
+
+==========
+
+THIRD PARTY CLAIMS (see CPAL Version 1.0 Section 3.4(a)):
+
+None.
+
+[End of LEGAL.txt]
+

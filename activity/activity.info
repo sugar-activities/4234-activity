@@ -1,0 +1,7 @@
+[Activity]
+name = ListenAndSpell
+service_name = in.seeta.ListenAndSpell
+class = ListenSpell.ListenSpell
+icon = activity-ListenSpell
+activity_version = 2
+show_launcher = yes

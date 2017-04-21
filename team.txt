@@ -1,0 +1,28 @@
+Listen and Spell is an activity designed for the sugar environment which aims at teaching children English words in a new and an exciting manner. 
+
+Idea
+
+We wish to develop an activity which can help children to learn and revise word spellings, vocabulary and pronunciation, and can give them feedback on the development of their learning skills, overtime using fun and engaging methodologies. 
+
+
+
+Sugarized version of Listen and Spell Activity
+
+Senior Developer - Chirag Jain
+Chirag works as Software Engineer, Products and Services, at Software for Education, Entertainment and Training Activities (http://seeta.in)
+
+Development Trainer - Assim Deodia
+Assim works as Technology Officer at Software for Education, Entertainment and Training Activities (http://seeta.in)
+
+Project Manager - Manusheel Gupta
+Manusheel Gupta is the founder Chairman and CEO of Software for Education, Entertainment and Training Activities (http://seeta.in)
+
+
+License - CPAL (COMMON PUBLIC ATTRIBUTION LICENSE VERSION) 1.0 and Artistic 2.0
+
+Copyright (C) 2009 Software for Education, Entertainment and Training Activities (SEETA) 
+All Rights Reserved.
+
+
+
+
